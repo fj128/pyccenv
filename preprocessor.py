@@ -59,3 +59,6 @@ def phase3(input: Iterable[Token]):
     '''split lines into preprocessing tokens'''
 
 
+# see
+# https://www.lysator.liu.se/c/ANSI-C-grammar-l.html
+# https://www.lysator.liu.se/c/ANSI-C-grammar-y.html
